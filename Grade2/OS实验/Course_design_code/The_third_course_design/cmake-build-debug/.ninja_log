@@ -1,0 +1,19 @@
+# ninja log v5
+3	2936	7374829578011499	CMakeFiles/Producers_Consumers.dir/Producers_Consumers.cpp.obj	bf0eba9a7dfc8501
+2940	3131	7374829579882723	Producers_Consumers.exe	7d409f2cf6668208
+29	2280	7374829922573602	CMakeFiles/Producers_Consumers.dir/Producers_Consumers.cpp.obj	bf0eba9a7dfc8501
+2281	2471	7374829924432185	Producers_Consumers.exe	7d409f2cf6668208
+33	2656	7374830559515047	CMakeFiles/Producers_Consumers.dir/Producers_Consumers.cpp.obj	bf0eba9a7dfc8501
+2657	2852	7374830561399914	Producers_Consumers.exe	7d409f2cf6668208
+4	2810	7374832161074566	CMakeFiles/Writer_Reader.dir/Writer_Reader.cpp.obj	f2d5c85819852e14
+2810	3000	7374832162887551	Writer_Reader.exe	9df6160dbc2d7ffe
+30	2471	7374832312094204	CMakeFiles/Writer_Reader.dir/Writer_Reader.cpp.obj	f2d5c85819852e14
+2475	2655	7374832313882656	Writer_Reader.exe	9df6160dbc2d7ffe
+14	2847	7387644654408652	CMakeFiles/Writer_Reader.dir/Writer_Reader.cpp.obj	f2d5c85819852e14
+2848	3342	7387644659288656	Writer_Reader.exe	9df6160dbc2d7ffe
+10	2404	7387646529992097	CMakeFiles/Writer_Reader.dir/Writer_Reader.cpp.obj	f2d5c85819852e14
+2405	2582	7387646531691965	Writer_Reader.exe	9df6160dbc2d7ffe
+10	2402	7387647690784112	CMakeFiles/Writer_Reader.dir/Writer_Reader.cpp.obj	f2d5c85819852e14
+2402	2598	7387647692668528	Writer_Reader.exe	9df6160dbc2d7ffe
+9	2947	7387672705535727	CMakeFiles/Writer_Reader.dir/Writer_Reader.cpp.obj	f2d5c85819852e14
+2948	3140	7387672707417716	Writer_Reader.exe	9df6160dbc2d7ffe

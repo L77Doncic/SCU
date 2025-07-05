@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "The_fourth_course_design",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "The_fourth_course_design::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-The_fourth_course_design-Debug-32c42690ffdde972d9b6.json",
+					"name" : "The_fourth_course_design",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-4ec93a8da2259b394806.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "memoryAlloc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-memoryAlloc-Debug-93c6392923d5939e026f.json",
+					"name" : "memoryAlloc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mine_choose::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mine_choose-Debug-d22b36b2c5e4d6ab89dc.json",
+					"name" : "mine_choose",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "teamwork1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-teamwork1-Debug-c9ca22ac38dcd704b82c.json",
+					"name" : "teamwork1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "teamwork2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-teamwork2-Debug-33cc0b4e32e3d57c2a30.json",
+					"name" : "teamwork2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "virtumem::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-virtumem-Debug-7515ef92b17696d806db.json",
+					"name" : "virtumem",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/AAA_course/OS/OS_course_design/Course_design_code/The_fourth_course_design/cmake-build-debug",
+		"source" : "E:/AAA_course/OS/OS_course_design/Course_design_code/The_fourth_course_design"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

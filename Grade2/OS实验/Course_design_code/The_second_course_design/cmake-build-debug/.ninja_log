@@ -1,0 +1,11 @@
+# ninja log v5
+5	852	7374820028670042	CMakeFiles/The_second_course_design.dir/main.cpp.obj	4cc50ea5d1eb405a
+855	1092	7374820030968633	The_second_course_design.exe	739abbdd4564cbc
+34	1184	7374820143652873	CMakeFiles/debug.dir/debug.cpp.obj	5ccdcc0b15ba2529
+1185	1412	7374820145890201	debug.exe	76c3717e819878f9
+7	891	7374824399139524	CMakeFiles/debug.dir/debug.cpp.obj	5ccdcc0b15ba2529
+891	1126	7374824401444142	debug.exe	76c3717e819878f9
+7	1023	7374824712922660	CMakeFiles/debug.dir/debug.cpp.obj	5ccdcc0b15ba2529
+1024	1213	7374824714755762	debug.exe	76c3717e819878f9
+9	974	7374825760834885	CMakeFiles/debug.dir/debug.cpp.obj	5ccdcc0b15ba2529
+975	1170	7374825762757519	debug.exe	76c3717e819878f9

@@ -1,0 +1,5 @@
+E:/AAA_course/OS/OS_course_design/Course_design_code/The_third_course_design/cmake-build-debug/CMakeFiles/The_third_course_design.dir
+E:/AAA_course/OS/OS_course_design/Course_design_code/The_third_course_design/cmake-build-debug/CMakeFiles/Producers_Consumers.dir
+E:/AAA_course/OS/OS_course_design/Course_design_code/The_third_course_design/cmake-build-debug/CMakeFiles/Writer_Reader.dir
+E:/AAA_course/OS/OS_course_design/Course_design_code/The_third_course_design/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/AAA_course/OS/OS_course_design/Course_design_code/The_third_course_design/cmake-build-debug/CMakeFiles/rebuild_cache.dir

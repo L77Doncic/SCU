@@ -1,0 +1,17 @@
+# ninja log v5
+8	2287	7381687429891644	CMakeFiles/memoryAlloc.dir/Test4_code/memoryAlloc.cpp.obj	ea0e11dd9f4f99ac
+2287	2460	7381687431573290	memoryAlloc.exe	739b306429089f7d
+4	2036	7375565444903691	CMakeFiles/virtumem.dir/Test4_code/virtumem.cpp.obj	33ffd9061b879845
+2036	2250	7375565446980363	virtumem.exe	a8a41f39ca03cb48
+5	1687	7381589971134376	CMakeFiles/teamwork1.dir/teamwork/teamwork1.cpp.obj	e4b31a8f51a396a8
+794	940	7381610672360526	teamwork2.exe	8a4fa257703cecc2
+1687	1832	7381589972535865	teamwork1.exe	85294d7d5e3f98b8
+7	793	7381610670980806	CMakeFiles/teamwork2.dir/teamwork/teamwork2.cpp.obj	c1f41f59bed1a58c
+8	610	7381737454285953	CMakeFiles/mine_choose.dir/mine_choose.cpp.obj	372fd18ca8a5892
+611	813	7381737456274453	mine_choose.exe	e677aa2b8d53305b
+6	1056	7385956046459939	CMakeFiles/main.dir/main.cpp.obj	54300838d0dd3e2f
+1057	1668	7385956052481332	main.exe	297853dd888ea3ff
+10	806	7385957292162900	CMakeFiles/main.dir/main.cpp.obj	54300838d0dd3e2f
+806	1002	7385957294024832	main.exe	297853dd888ea3ff
+9	647	7385960664195547	CMakeFiles/main.dir/main.cpp.obj	54300838d0dd3e2f
+647	880	7385960666459172	main.exe	297853dd888ea3ff

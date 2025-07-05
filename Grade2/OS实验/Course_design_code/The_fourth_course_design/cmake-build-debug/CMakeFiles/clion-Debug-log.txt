@@ -1,0 +1,4 @@
+"D:\Clion\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Clion/CLion 2024.1.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S E:\AAA_course\OS\OS_course_design\Course_design_code\The_fourth_course_design -B E:\AAA_course\OS\OS_course_design\Course_design_code\The_fourth_course_design\cmake-build-debug
+-- Configuring done (0.9s)
+-- Generating done (0.0s)
+-- Build files have been written to: E:/AAA_course/OS/OS_course_design/Course_design_code/The_fourth_course_design/cmake-build-debug

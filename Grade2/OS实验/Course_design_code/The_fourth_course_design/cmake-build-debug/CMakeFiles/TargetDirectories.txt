@@ -1,0 +1,9 @@
+E:/AAA_course/OS/OS_course_design/Course_design_code/The_fourth_course_design/cmake-build-debug/CMakeFiles/The_fourth_course_design.dir
+E:/AAA_course/OS/OS_course_design/Course_design_code/The_fourth_course_design/cmake-build-debug/CMakeFiles/memoryAlloc.dir
+E:/AAA_course/OS/OS_course_design/Course_design_code/The_fourth_course_design/cmake-build-debug/CMakeFiles/virtumem.dir
+E:/AAA_course/OS/OS_course_design/Course_design_code/The_fourth_course_design/cmake-build-debug/CMakeFiles/teamwork1.dir
+E:/AAA_course/OS/OS_course_design/Course_design_code/The_fourth_course_design/cmake-build-debug/CMakeFiles/teamwork2.dir
+E:/AAA_course/OS/OS_course_design/Course_design_code/The_fourth_course_design/cmake-build-debug/CMakeFiles/mine_choose.dir
+E:/AAA_course/OS/OS_course_design/Course_design_code/The_fourth_course_design/cmake-build-debug/CMakeFiles/main.dir
+E:/AAA_course/OS/OS_course_design/Course_design_code/The_fourth_course_design/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/AAA_course/OS/OS_course_design/Course_design_code/The_fourth_course_design/cmake-build-debug/CMakeFiles/rebuild_cache.dir
